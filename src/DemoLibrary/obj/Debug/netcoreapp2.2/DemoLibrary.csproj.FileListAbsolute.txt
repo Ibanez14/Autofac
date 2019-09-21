@@ -1,0 +1,9 @@
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\bin\Debug\netcoreapp2.2\DemoLibrary.deps.json
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\bin\Debug\netcoreapp2.2\DemoLibrary.dll
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\bin\Debug\netcoreapp2.2\DemoLibrary.pdb
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\obj\Debug\netcoreapp2.2\DemoLibrary.csprojAssemblyReference.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\obj\Debug\netcoreapp2.2\DemoLibrary.csproj.CoreCompileInputs.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\obj\Debug\netcoreapp2.2\DemoLibrary.AssemblyInfoInputs.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\obj\Debug\netcoreapp2.2\DemoLibrary.AssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\obj\Debug\netcoreapp2.2\DemoLibrary.dll
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\DemoLibrary\obj\Debug\netcoreapp2.2\DemoLibrary.pdb

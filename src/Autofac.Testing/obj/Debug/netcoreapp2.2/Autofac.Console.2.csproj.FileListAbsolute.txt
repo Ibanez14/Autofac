@@ -1,0 +1,11 @@
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\bin\Debug\netcoreapp2.2\Autofac.Console.2.deps.json
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\bin\Debug\netcoreapp2.2\Autofac.Console.2.runtimeconfig.json
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\bin\Debug\netcoreapp2.2\Autofac.Console.2.runtimeconfig.dev.json
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\bin\Debug\netcoreapp2.2\Autofac.Console.2.dll
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\bin\Debug\netcoreapp2.2\Autofac.Console.2.pdb
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\obj\Debug\netcoreapp2.2\Autofac.Console.2.csprojAssemblyReference.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\obj\Debug\netcoreapp2.2\Autofac.Console.2.csproj.CoreCompileInputs.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\obj\Debug\netcoreapp2.2\Autofac.Console.2.AssemblyInfoInputs.cache
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\obj\Debug\netcoreapp2.2\Autofac.Console.2.AssemblyInfo.cs
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\obj\Debug\netcoreapp2.2\Autofac.Console.2.dll
+E:\Documents\.NET Core projects (Learning)\Design Patterns\ConsolePatterns\src\Autofac.Testing\obj\Debug\netcoreapp2.2\Autofac.Console.2.pdb
