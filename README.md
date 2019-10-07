@@ -1,2 +1,1 @@
-# Testing.Practise.Autofac
-Getting familiar with autofac
+# Autofac by Tim Corey
